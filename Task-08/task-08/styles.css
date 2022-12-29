@@ -1,0 +1,94 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+  font-family: "Poppins",cursive;
+
+}
+
+.w {
+  background-color: aqua;
+  box-shadow: 10px 5px 5px aqua;
+  font-family: "Rubik";
+}
+
+.a {
+  background-color: aquamarine;
+  box-shadow: 10px 5px 5px aquamarine;
+  font-family: "Poppins";
+
+}
+
+.s {
+  background-color: #DA0463;
+  box-shadow: 10px 5px 5px #DA0463;
+  font-family: "Rubik";
+
+}
+
+.d {
+  background-color: bisque;
+  box-shadow: 10px 5px 5px bisque;
+  font-family: "Rubik";
+
+}
+
+.j {
+  background-color: black;
+  box-shadow: 10px 5px 5px black;
+  font-family: "Rubik";
+
+}
+
+.k {
+  background-color: blueviolet;
+  box-shadow: 10px 5px 5px blueviolet;
+  font-family: "Rubik";
+
+}
+
+.l {
+  background-color: cadetblue;
+  box-shadow: 10px 5px 5px cadetblue;
+  font-family: "Rubik";
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+}

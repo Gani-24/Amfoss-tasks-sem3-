@@ -1,0 +1,4 @@
+-input height from user
+-checking if height is less than 1 and greater than 8, go back to input
+-loop from 1 to height
+-print "#" according to the iteration and add a new line

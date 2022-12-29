@@ -1,0 +1,17 @@
+/Users/gani/Desktop/foss/tasks/task-05/Client/bin/Debug/net6.0/Client
+/Users/gani/Desktop/foss/tasks/task-05/Client/bin/Debug/net6.0/Client.deps.json
+/Users/gani/Desktop/foss/tasks/task-05/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/Users/gani/Desktop/foss/tasks/task-05/Client/bin/Debug/net6.0/Client.dll
+/Users/gani/Desktop/foss/tasks/task-05/Client/bin/Debug/net6.0/Client.pdb
+/Users/gani/Desktop/foss/tasks/task-05/Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.dll
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/refint/Client.dll
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.pdb
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+/Users/gani/Desktop/foss/tasks/task-05/Client/obj/Debug/net6.0/ref/Client.dll

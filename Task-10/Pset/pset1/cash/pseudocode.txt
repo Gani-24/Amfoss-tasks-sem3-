@@ -1,0 +1,5 @@
+-take input of dollar in float
+-round dollar by multiplying with 100
+-use while loop to check for each type of coin
+-add count to "coin" variable, in while loop
+-print(coin) which will give us the number of coins required

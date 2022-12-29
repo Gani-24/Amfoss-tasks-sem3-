@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NGWG7KaGPq3p+PHZMH1Vcz4NkBcZNDONBw3TlaERCnkar/TqxIU92tOkwgFr7xUnQiXRRmw1JndRBz7VxwueyA==",
+  "success": true,
+  "projectFilePath": "/Users/gani/Desktop/foss/tasks/task-05/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/gani/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
