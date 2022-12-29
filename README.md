@@ -1,1 +1,21 @@
-## Amfoss tasks 
+## Amfoss tasks
+# Sai Ganesh K
+**I am Sai Ganesh K from Bangalore,Karnataka,fresher at Amrita School of Engineering**
+**Tasks List**|**Status**
+--------------|---------------|---------------
+[Task-00] Completed
+[Task-01] Completed
+[Task-02] Completed
+[Task-03] Done 
+[Task-04] Completed
+[Task-05] Completed
+[Task-06] Completed
+[Task-07] Completed
+[Task-08] JSExplorer|Completed
+[Task-09] Not Done
+[Task-10] Completed
+
+## My Introduction
+My name is Sai Ganesh K, I am from Bangalore,Karnataka.
+This is my 2nd time applying, i had applied last year. 
+I belive i have become better than my previous year self and can do even better with the club, I havent been wasting my time since the last time i applied. I have worked on projects and even currently working on one. Learnt some skills, I am working with Flutter as my personal project and have been doing good in that as well. I have a good laid out plan in the developement area and believe joining this club would help me a lot and vice versa with my contributions.
