@@ -19,3 +19,7 @@
 My name is Sai Ganesh K, I am from Bangalore,Karnataka.
 This is my 2nd time applying, i had applied last year. 
 I belive i have become better than my previous year self and can do even better with the club, I havent been wasting my time since the last time i applied. I have worked on projects and even currently working on one. Learnt some skills, I am working with Flutter as my personal project and have been doing good in that as well. I have a good laid out plan in the developement area and believe joining this club would help me a lot and vice versa with my contributions.
+
+
+Issues
+- due to some personal issues i didnt have time to arrange my other repo or work on task-09, so i created a new one today and added all the files which i had done till today.
