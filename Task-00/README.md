@@ -1,0 +1,1 @@
+I am using a macbook so i didnt install ubuntu :).
