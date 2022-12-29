@@ -2,18 +2,18 @@
 # Sai Ganesh K
 **I am Sai Ganesh K from Bangalore,Karnataka,fresher at Amrita School of Engineering**
 **Tasks List**|**Status**
---------------|---------------|---------------
-[Task-00] Completed
-[Task-01] Completed
-[Task-02] Completed
-[Task-03] Done 
-[Task-04] Completed
-[Task-05] Completed
-[Task-06] Completed
-[Task-07] Completed
-[Task-08] JSExplorer|Completed
-[Task-09] Not Done
-[Task-10] Completed
+--------------|---------------
+[Task-00] |Completed
+[Task-01] |Completed
+[Task-02] |Completed
+[Task-03] |Done 
+[Task-04] |Completed
+[Task-05] |Completed
+[Task-06] |Completed
+[Task-07] |Completed
+[Task-08] |Completed
+[Task-09] |Not Done
+[Task-10] |Completed
 
 ## My Introduction
 My name is Sai Ganesh K, I am from Bangalore,Karnataka.
