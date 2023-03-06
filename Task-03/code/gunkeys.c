@@ -1,36 +1,23 @@
-#include<stdio.h>
-int main()
+#include <stdio.h>
+#include <string.h>
+
+int main() 
 {
-    int t,n;
-    int countaa=0;
-    scanf("%d",&t);
-    int keys[3];
-    for(int i=0;i<t;i++)
-    {
-        scanf("%d",&n);
-        for(int i=0;i<3;i++)
-        {
-            scanf("%d",&keys[i]);
+    char n[100];
+    int c = 0;
+    
+    scanf("%s", n);
+    
+    while (strlen(n) > 1) {
+        int sum = 0;
+        for (int i = 0; i < strlen(n); i++) {
+            sum += n[i] - '0';
         }
-        for(int i=0;i<3;i++)
-        {
-            
-            if(keys[n-1]!=0)
-            {
-                countaa++;
-                n=keys[n-1];
-            }
-        }
-        if(countaa==2)
-        {
-            printf("YES\n");
-        }
-        else{
-            printf("NO\n");
-        }
-        countaa=0;
-
+        sprintf(n, "%d", sum);
+        c++;
     }
+    
+    printf("%d\n", c);
+    
     return 0;
-
 }
