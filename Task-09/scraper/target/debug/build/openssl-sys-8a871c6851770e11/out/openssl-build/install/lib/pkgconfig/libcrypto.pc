@@ -1,0 +1,12 @@
+prefix=/Users/gani/Asura/Amfoss-tasks-sem3-/Task-09/scraper/target/debug/build/openssl-sys-8a871c6851770e11/out/openssl-build/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+enginesdir=${libdir}/engines-1.1
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Version: 1.1.1t
+Libs: -L${libdir} -lcrypto
+Libs.private:  
+Cflags: -I${includedir}

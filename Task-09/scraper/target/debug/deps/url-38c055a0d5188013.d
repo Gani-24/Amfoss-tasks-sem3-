@@ -1,0 +1,13 @@
+/Users/gani/Asura/Amfoss-tasks-sem3-/Task-09/scraper/target/debug/deps/url-38c055a0d5188013.rmeta: /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/Users/gani/Asura/Amfoss-tasks-sem3-/Task-09/scraper/target/debug/deps/liburl-38c055a0d5188013.rlib: /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/Users/gani/Asura/Amfoss-tasks-sem3-/Task-09/scraper/target/debug/deps/url-38c055a0d5188013.d: /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs:

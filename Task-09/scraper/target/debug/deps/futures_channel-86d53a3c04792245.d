@@ -1,0 +1,11 @@
+/Users/gani/Asura/Amfoss-tasks-sem3-/Task-09/scraper/target/debug/deps/futures_channel-86d53a3c04792245.rmeta: /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/Users/gani/Asura/Amfoss-tasks-sem3-/Task-09/scraper/target/debug/deps/libfutures_channel-86d53a3c04792245.rlib: /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/Users/gani/Asura/Amfoss-tasks-sem3-/Task-09/scraper/target/debug/deps/futures_channel-86d53a3c04792245.d: /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs:
+/Users/gani/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs:
