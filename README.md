@@ -6,13 +6,13 @@
 [Task-00] |Completed
 [Task-01] |Completed
 [Task-02] |Completed
-[Task-03] |Done 
+[Task-03] |Done
 [Task-04] |Completed
 [Task-05] |Completed
 [Task-06] |Completed
-[Task-07] |Completed
+[Task-07] |Done Partially
 [Task-08] |Completed
-[Task-09] |Not Done
+[Task-09] |Completed
 [Task-10] |Completed
 
 ## My Introduction
@@ -22,4 +22,10 @@ I belive i have become better than my previous year self and can do even better 
 
 
 Issues
-- due to some personal issues i didnt have time to arrange my other repo or work on task-09, so i created a new one today and added all the files which i had done till today.
+- due to some personal issues i didnt have time to arrange my other repo or work, so i created a new one today and added all the files which i had done till today.
+
+### New Updates
+- Updated Task-03 after completing more questions
+- Updated Task-04 by making the required corrections and making the export functionality work
+- Updated Task-09
+
